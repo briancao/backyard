@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 5% 20%;
+    font-size: 24px;
+    font-family: 'Nunito';
+}
+
+canvas {
+    border: 1px;
+}
